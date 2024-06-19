@@ -382,6 +382,8 @@ footer .cols .news-col form input{
     border-radius: 100px;
     font-weight: 400;
     font-size: 13px;
+    outline: none;
+    color: white;
 }
 
 footer .cols .news-col form button{

@@ -113,4 +113,8 @@
         text-align: start;
         flex-direction: column;
       }
+      footer .cols .news-col form input{
+        outline: none;
+        color: white;
+      }
 }
