@@ -35,9 +35,6 @@
         width: 100%;
         padding: 20px 10px;
       }
-      .seprator{
-        margin-left: 150px;
-      }
       .about{
         display: flex;
         flex-direction: column;
@@ -59,8 +56,8 @@
       .skills {
         display: flex;
         flex-direction: column;
-        justify-content: center;
-        align-items: center;
+        justify-content: center !important;
+        align-items: center !important;
         width: 100%;
       }
       .skills .left{
